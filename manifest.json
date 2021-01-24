@@ -1,0 +1,24 @@
+{
+  "dir": "ltr",
+  "lang": "en",
+  "name": "Joke Teller",
+  "short_name": "Joke Teller",
+  "scope": "/joke-teller/",
+  "display": "browser",
+  "start_url": "https://nathanhannon.github.io/joke-teller/",
+  "background_color": "#000000",
+  "theme_color": "transparent",
+  "description": "",
+  "orientation": "any",
+  "related_applications": [],
+  "prefer_related_applications": "false",
+  "icons": [
+    {
+      "src": "https://www.google.com/s2/favicons?domain=https://portfolio-qlw59.ondigitalocean.app/",
+      "type": "image/png",
+      "sizes": "16x16"
+    }
+  ],
+  "url": "https://nathanhannon.github.io/joke-teller/",
+  "generated": true
+}
